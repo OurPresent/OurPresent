@@ -31,11 +31,11 @@
         <li>JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" height="25px"></li>
         <li>MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25px" height="25px"></li>
         <li>NoSQL</li>
+        <li>Scratch</li>
         <li>SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="25px" height="25px"></li>
         <li>PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25px" height="25px"></li>
         <li>Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" height="25px"></li>
         <li>Visual Basic & Application <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25px" height="25px"></li>
-        <li>Scratch</li>
     </ul>
 </div>
 <div>
