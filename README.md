@@ -42,6 +42,9 @@
     <h2>Mis redes:</h2>
     <a href="https://www.linkedin.com/in/giovanni-buglione-49838b1b3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" height="50px"></a>
 </div>
+<div>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OurPresent&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 <!--
 **OurPresent/OurPresent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
