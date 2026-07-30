@@ -1,10 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif" alt="">
-    <h1 align="center">Hola, soy Giovanni Buglione!</h1>
+    <h1 align="center">Hola, soy Giovanni!</h1>
 </div>
 <div>
-    <h2>Estudiante de:</h2>
-    <p>Desarrollo de Software 👨🏻‍💻<br> <i>Universidad Tecnologica de Panamá <br><b>2020 - 2024</b></i><p>
+    <h2>Estudie:</h2>
+    <p>Desarrollo de Software 👨🏻‍💻<br> <i>Universidad Tecnologica de Panamá <br><b>2020 - 2025</b></i><p>
 </div>
 <div>
     <h2>Me gustan las siguientes cosas:</h2>
